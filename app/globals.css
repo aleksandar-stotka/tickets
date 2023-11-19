@@ -2,4 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* base styles */
+body {
+  background: hsl(220, 60%, 95%);
+  
+}
